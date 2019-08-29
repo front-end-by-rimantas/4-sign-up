@@ -1,9 +1,13 @@
-.agurkas {
+body {
+    background-color:aquamarine;
+}
+
+.container {
     display: inline-block;
     width: 1000px;
     height: 200px;
-    background-color: green;
     margin-left: calc( (100% - 1000px) / 2 );
+    margin-top: 80px;
 }
 .left-side {
     display: inline-block;
